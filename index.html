@@ -31,28 +31,28 @@
   <a name="home"></a>
 
   <!-- Toolbar -->
-  <div class="navbar-wrapper">
-    <div class="container-fluid">
-      <nav class="navbar navbar-transparent navbar-static-top">
-        <div class="container">
-          <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-              <span class="sr-only">Toggle navigation</span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </button>
-            <span class="navbar-brand">AreYouIN</span>
-          </div>
-          <div class="navbar-collapse collapse toolbar-actions">
-            <ul class="nav navbar-nav">
-              <li><a href="#home">Inicio</a></li>
-              <li><a href="#features">Características</a></li>
-              <li><a href="#download">Descarga</a></li>
-            </ul>
-          </div>
-        </div>
-      </nav>
+  <div class="container-fluid navbar-wrapper navbar-static-top">
+    <div class="row">
+      <div class="col-md-12">
+          <nav class="navbar navbar-transparent">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <span class="navbar-brand">AreYouIN</span>
+            </div>
+            <div class="navbar-collapse collapse pull-right">
+              <ul class="nav navbar-nav">
+                <li><a href="#home">Inicio</a></li>
+                <li><a href="#features">Características</a></li>
+                <li><a href="#download">Descarga</a></li>
+              </ul>
+            </div>
+          </nav>
+      </div>
     </div>
   </div>
 
@@ -78,7 +78,7 @@
 
             <div class="col-xs-6 download-apple-store">
               <img alt="Download on the App Store" src="images/apple-store-badge.png" />
-              <p class="asp_text">(Próximamente)</p>
+              <p>(Próximamente)</p>
             </div>
 
           </div>
@@ -94,7 +94,7 @@
   <!-- Marketing messaging and featurettes
   ================================================== -->
   <!-- Wrap the rest of the page in another container to center all the content. -->
-  <a class="link_anchor" name="features"></a>
+  <a name="features"></a>
   <div class="container marketing">
     <div class="row">
       <div class="col-sm-4">
@@ -183,25 +183,32 @@
   </div> <!-- END FLUID CONTAINER -->
 
   <div class="container-fluid download">
-    <div class="row">
-      <a class="link_anchor" name="download"></a>
-      <h2>Prueba AreYouIN</h2>
-      <h5>La app gratuita para quedar con tus amigos y conocer gente nueva.<br/>
-        Disponible en Google Play y Apple Store.</h5>
-
-      <div class="col-xs-6 download-google-play">
-        <a href="https://play.google.com/store/apps/details?id=es.peeple.areyouin&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">
-          <img alt="Get it on Google Play" src="images/google-play-badge.png" />
-        </a>
+    <div class="container">
+      <!-- Get AreYouIN -->
+      <div class="row">
+        <div class="col-md-12">
+          <a name="download"></a>
+          <h2>Prueba AreYouIN</h2>
+          <h5>La app gratuita para quedar con tus amigos y conocer gente nueva.<br/>
+            Disponible en Google Play y Apple Store.</h5>
+        </div>
       </div>
-
-      <div class="col-xs-6 download-apple-store">
-        <img alt="Download on the App Store" src="images/apple-store-badge.png" />
-        <p class="asp_text">(Próximamente)</p>
+      <!-- Download buttons -->
+      <div class="row">
+        <!-- Google Play -->
+        <div class="col-xs-6 download-google-play">
+          <a href="https://play.google.com/store/apps/details?id=es.peeple.areyouin&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">
+            <img alt="Get it on Google Play" src="images/google-play-badge.png" />
+          </a>
+        </div>
+        <!-- Apple Store -->
+        <div class="col-xs-6 download-apple-store">
+          <img alt="Download on the App Store" src="images/apple-store-badge.png" />
+          <p>(Próximamente)</p>
+        </div>
       </div>
-
-    </div>
-  </div>
+    </div> <!-- End container -->
+  </div> <!-- End container fluid -->
 
   <!-- FOOTER -->
   <footer class="container footer">

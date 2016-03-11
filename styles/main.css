@@ -1,8 +1,18 @@
+* {
+  -webkit-font-smoothing: antialiased;
+}
+
 body {
   min-width: 320px;
   background: #fafafa;
   font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+a, a:hover {
+  color: #FF4081;
 }
 
 .text-muted {
@@ -20,30 +30,13 @@ body {
   text-shadow: none;
 }
 
-a, a:hover {
-  color: #FF4081;
-}
-
-/* Special class on .container surrounding .navbar, used for positioning it into place. */
 .navbar-wrapper {
-  position: absolute;
-  top: 0;
-  right: 0;
-  left: 0;
-  z-index: 20;
+  background-color: #009688;
 }
 
-/* Flip around the padding for proper display in narrow viewports */
-.navbar-wrapper > .container {
-  padding-right: 0;
-  padding-left: 0;
-}
-.navbar-wrapper .navbar {
-  padding-right: 15px;
-  padding-left: 15px;
-}
-.navbar-wrapper .navbar .container {
-  width: auto;
+.navbar-wrapper > .row {
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 .navbar-nav > li > a {
@@ -62,97 +55,28 @@ a, a:hover {
   background-color: none;
 }
 
-.toolbar {
-  height: 72px;
-  background-color: #009688;
-}
-
-.toolbar-actions {
-  float: right;
-}
-
-.center {
+.marketing .col-sm-4 {
+  margin-top: 10px;
+  margin-bottom: 20px;
   text-align: center;
 }
 
-.parallax {
-  background-color: #009688;
-  color: #FFF;
+.marketing h2 {
+  font-weight: normal;
+}
+.marketing .col-sm-4 p {
+  margin-right: 10px;
+  margin-left: 10px;
 }
 
-div.download {
-  padding: 100px 50px 100px 50px;
-  background-color: #009688;
-  color: #FFF;
-  text-align: center;
+.featurette {
+  background-color: #f3f4f5;
 }
 
-.description h2,
-.download h2 {
-  text-shadow: 0 1px 5px rgba(0,0,0,0.2);
-  font-weight: 200;
-  font-size: 40px;
-  margin: 30px 0 15px;
-}
-
-.download h2 {
+.featurette-heading {
   font-weight: 400;
-}
-
-.description h5,
-.download h5 {
-  text-shadow: 0 1px 5px rgba(0,0,0,0.5);
-  line-height: 1.4;
-  font-weight: 400;
-  font-size: 18px;
-  -webkit-margin-before: 1.67em;
-  -webkit-margin-after: 1.67em;
-  -webkit-margin-start: 0px;
-  -webkit-margin-end: 0px;
-}
-
-* {
-  -webkit-font-smoothing: antialiased;
-}
-
-.download-google-play {
-  text-align: right;
-}
-
-.download-google-play img:hover {
-  border-color: #FF4081;
-}
-
-.download-google-play img {
-  width: auto;
-  height: 50px;
-  background-color: #000;
-  border: 2px solid #000;
-  border-radius: 8px;
-}
-
-.download-apple-store {
-  text-align: left;
-}
-
-.download-apple-store img {
-  width: auto;
-  height: 50px;
-  background-color: #000;
-  border: 2px solid #000;
-  border-radius: 8px;
-}
-
-.download-apple-store img:hover {
-  border-color: #FF4081;
-}
-
-.asp_text {
-    -webkit-font-smoothing: antialiased;
-}
-
-.footer {
-  padding: 50px;
+  line-height: 1;
+  letter-spacing: -1px;
 }
 
 .footer ul {
@@ -183,47 +107,11 @@ div.download {
   font-size: 16px;
 }
 
-@media (max-width: 446px) {
-
-  .description h2 {
-    font-size: 30px;
-    margin: 30px 0 15px;
-  }
-
-  .description h5 {
-    line-height: 1.4;
-    font-size: 15px;
-  }
-
-  .download-google-play {
-    text-align: right;
-  }
-
-  .download-google-play img {
-    width: 100%;
-    height: auto;
-  }
-
-  .download-apple-store {
-    text-align: left;
-  }
-
-  .download-apple-store img {
-    width: 100%;
-    height: auto;
-  }
-}
-
-@media (max-width: 767px) {
+@media (min-width: 0px) {
 
   .parallax {
-    height: 100%;
-    margin-bottom: 24px;
-    overflow-y: hidden;
-  }
-
-  .parallax div.description {
-    margin-top: 35px;
+    background-color: #009688;
+    color: #FFF;
   }
 
   .parallax div.phone {
@@ -235,68 +123,173 @@ div.download {
   .parallax img.phone {
     height: auto;
     width: 65%;
+    max-width: 240px;
   }
+
+  .description h2,
+  .download h2 {
+    text-shadow: 0 1px 5px rgba(0,0,0,0.2);
+    font-weight: 200;
+    font-size: 30px;
+    margin: 15px 0px 15px 0px;
+  }
+
+  .description h5,
+  .download h5 {
+    text-shadow: 0 1px 5px rgba(0,0,0,0.5);
+    line-height: 1.4;
+    font-weight: 400;
+    font-size: 15px;
+    -webkit-margin-before: 1.67em;
+    -webkit-margin-after: 1.67em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+  }
+
+  .download h2 {
+    font-weight: 400;
+  }
+
+  .download-google-play {
+    text-align: right;
+  }
+
+  .download-google-play img {
+    width: 100%;
+    height: auto;
+    max-width: 160px;
+    background-color: #000;
+    border: 2px solid #000;
+    border-radius: 8px;
+  }
+
+  .download-google-play img:hover {
+    border-color: #FF4081;
+  }
+
+  .download-apple-store {
+    text-align: left;
+  }
+
+  .download-apple-store img {
+    width: 100%;
+    height: auto;
+    max-width: 160px;
+    background-color: #000;
+    border: 2px solid #000;
+    border-radius: 8px;
+  }
+
+  .download-apple-store img:hover {
+    border-color: #FF4081;
+  }
+
+  .featurette-divider {
+    margin: 20px 0; /* Space out the Bootstrap <hr> more */
+  }
+
+  div.download {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #009688;
+    /*background-color: #b5b5b5;*/
+    /*background-color: #607D8B;*/
+    /*background-color: #4DB6AC;*/
+    color: #FFF;
+    text-align: center;
+  }
+
+  .footer {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+
 }
 
 @media (min-width: 768px) {
+
   .parallax {
-    height: 630px;
+    height: 550px;
     margin-bottom: 24px;
     overflow-y: hidden;
   }
 
   .parallax div.description {
-    margin-top: 100px;
+    margin-top: 50px;
   }
 
   .parallax div.phone {
-    margin-top: 85px;
+    margin-top: 40px;
     text-align: center;
   }
 
   .parallax img.phone {
     height: auto;
-    width: 85%;
+    width: 80%;
+    min-width: 80%;
+  }
+
+  .description h2,
+  .download h2 {
+    font-weight: 200;
+    font-size: 40px;
+  }
+
+  .download h2 {
+    font-weight: 400;
+  }
+
+  .description h5,
+  .download h5 {
+    line-height: 1.4;
+    font-weight: 400;
+    font-size: 18px;
   }
 
   .download-google-play {
     margin-top: 10px;
   }
 
+  .download-google-play img {
+    width: 160px;
+    height: 50px;
+  }
+
   .download-apple-store {
     margin-top: 10px;
   }
-  /* Navbar positioning foo */
-  .navbar-wrapper {
-    margin-top: 20px;
-  }
-  .navbar-wrapper .container {
-    padding-right: 15px;
-    padding-left: 15px;
-  }
-  .navbar-wrapper .navbar {
-    padding-right: 0;
-    padding-left: 0;
-  }
 
-  /* The navbar becomes detached from the top, so we round the corners */
-  .navbar-wrapper .navbar {
-    border-radius: 4px;
+  .download-apple-store img {
+    width: 160px;
+    height: 50px;
   }
 
   .featurette-heading {
     font-size: 45px;
+  }
+
+  .featurette img {
+    margin-bottom: 20px;
+  }
+
+  .featurette-divider {
+    margin: 40px 0; /* Space out the Bootstrap <hr> more */
+  }
+
+  .footer {
+    padding-top: 25px;
+    padding-bottom: 25px;
   }
 }
 
 @media (min-width: 992px) {
 
   .parallax div.description {
-    margin-top: 175px;
+    margin-top: 130px;
   }
 
   .parallax div.phone {
-    margin-top: 115px;
+    margin-top: 60px;
     text-align: center;
   }
 
@@ -308,43 +301,8 @@ div.download {
   .featurette-heading {
     margin-top: 120px;
   }
-}
 
-.ayi-brand {
-  font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: bold;
-}
-
-.marketing .col-sm-4 {
-  margin-top: 10px;
-  margin-bottom: 20px;
-  text-align: center;
-}
-.marketing h2 {
-  font-weight: normal;
-}
-.marketing .col-sm-4 p {
-  margin-right: 10px;
-  margin-left: 10px;
-}
-
-.link_anchor {
-  -webkit-transition: all 0.5s ease;
-}
-
-/* Featurettes
-------------------------- */
-.featurette {
-  background-color: #f3f4f5;
-}
-
-.featurette-divider {
-  margin: 80px 0; /* Space out the Bootstrap <hr> more */
-}
-
-/* Thin out the marketing headings */
-.featurette-heading {
-  font-weight: 400;
-  line-height: 1;
-  letter-spacing: -1px;
+  .featurette-divider {
+    margin: 80px 0; /* Space out the Bootstrap <hr> more */
+  }
 }
