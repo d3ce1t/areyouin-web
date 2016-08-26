@@ -1,0 +1,40 @@
+div.legal-wrapper {
+  margin-top: 32px;
+  font-size: 18px;
+}
+
+div.legal-wrapper h1 {
+  margin-bottom: 32px;
+}
+
+div.legal-wrapper .title {
+  text-align: center;
+}
+
+div.legal-info {
+  margin-bottom: 32px;
+}
+
+div.legal-info p {
+  margin-bottom: 16px;
+}
+
+div.legal-info h3,h4 {
+  color: #009688;
+}
+
+div.legal-info h4 {
+  margin-top: 16px;
+}
+
+div.side-bar {
+  margin-top: 64px;
+}
+
+div.side-bar h4 {
+  color: #000;
+}
+
+div.side-bar ul {
+  list-style-type: none;
+}
