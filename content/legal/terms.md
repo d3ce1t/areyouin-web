@@ -7,7 +7,7 @@ date = "2016-08-26T03:57:09+02:00"
 
   <p>Vigente a partir de: 25 de agosto de 2016</p>
 
-  <h3>¡Bienvenido!</h3>
+  <h2>¡Bienvenido!</h2>
   <p>Nos complace que hayas decidido usar los productos y servicios de AreYouIN&trade; (en adelante, los &laquo;Servicios&raquo;). Los Servicios son proporcionados por José Ramón Padilla-López (en adelante, &laquo;Areyouin&raquo;), con DNI 48331896H y cuyo domicilio está ubicado en Avd. Andalucía, 4, 03502 Benidorm, España.</p>
 
   <p>Hemos redactado estas Condiciones con el fin de que conozcas las reglas que rigen nuestra relación contigo. Aunque hemos hecho nuestro mayor esfuerzo por omitir la jerga legal, todavía hay algunas partes que se leen como un contrato tradicional. Y esto tiene un buen motivo: las Condiciones constituyen un contrato legal vinculante entre Areyouin y tú. Por eso te recomendamos que las leas detenidamente.</p>
@@ -30,9 +30,9 @@ date = "2016-08-26T03:57:09+02:00"
 
 <div class="legal-info">
   <h3>2. Los derechos que te otorgamos</h3>
-  <p>Areyouin te otorga una licencia personal, mundial, gratuita, no transferible, no exclusiva, revocable y no sublicenciable para acceder y usar los Servicios. El único objetivo de la licencia es que uses y disfrutes de los beneficios del Servicio de una manera permitida por estas Condiciones y, en caso de haberlas, por nuestras políticas de uso.</p>
-  <p>Cualquier software que te proporcionemos puede descargar e instalar automáticamente mejoras, actualizaciones y nuevas funcionalidades. Puedes configurar estas descargas automáticas a través de los ajustes de tu dispositivo.</p>
-  <p>No puedes copiar, modificar, distribuir, vender ni alquilar ninguna parte de nuestros Servicios, ni tampoco puedes realizar ingeniería inversa o intentar extraer el código fuente de este software, a menos que las leyes vigentes prohiban estas restricciones o que cuentes con nuestra autorización por escrito para hacerlo.</p>
+  <p>Areyouin te concede una licencia personal mundial, libre de royalties, intransmisible, no exclusiva, revocable y no sublicenciable para usar el software que se te proporcione como parte de los Servicios. El único propósito de esta licencia es permitirte usar los Servicios que ofrece Areyouin y beneficiarte de ellos, según lo estipulado en estas condiciones.</p>
+  <p>Si un Servicio requiere o incluye software que se puede descargar, este software podrá actualizarse automáticamente en tu dispositivo siempre que haya versiones o funciones nuevas disponibles. Algunos Servicios pueden permitir que definas los ajustes de actualización automática.</p>
+  <p>No podrás copiar, modificar, distribuir, vender ni prestar ninguna parte de nuestros Servicios ni del software incluido ni podrás aplicar técnicas de ingeniería inversa ni intentar extraer el código fuente de dicho software, salvo si la legislación prohíbe dichas restricciones o si tienes consentimiento de Areyouin por escrito.</p>
 </div>
 
 <div class="legal-info">
@@ -40,7 +40,6 @@ date = "2016-08-26T03:57:09+02:00"
   <p>Muchos de nuestros Servicios te permiten crear, cargar, publicar, enviar, recibir y almacenar contenido. Al hacerlo, conservas cualquier derecho de propiedad que tuvieras sobre dicho contenido desde un principio. No obstante nos otorgas una licencia para utilizarlo, cuyo alcance, dependerá de los Servicios que utilices y de los ajustes que hayas seleccionado.</p>
   <p>Los contenidos que publicas en los Servicios pueden tener un alcance limitado en relación a los usuarios que pueden llegar a consumirlos. En caso de que el contenido esté dirigido a usuarios concretos desginados por ti, otorgas a Areyouin una licencia mundial, gratuita, sublicenciable y transferible para alojar, almacenar, utilizar, mostrar, reproducir, modificar, adaptar, editar, publicar y distribuir dicho contenido. Dicha licencia se otorga con la única finalidad de operar, desarrollar, prestar, promover y mejorar los Servicios, así como de investigar y desarrollar otros nuevos.</p>
   <p>En caso de que los contenidos que publicas puedan ser, a su vez, compartidos por otros usuarios o puedan ser consumidos públicamente por cualquier otro usuario de los Servicios, dado el carácter inherentemente público de estos contenidos, la licencia que nos otorgas con respecto al contenido enviado a dichos Servicios es más amplia. Además de los derechos otorgados en el caso anterior, también nos concedes una licencia perpetua para promover, exponer, difundir, sindicar, representar y mostrar públicamente este tipo de contenidos en el formato que sea y en cualquiera de los medios o canales de distribución (conocidos actualmente o que se desarrollen en el futuro). En la medida que sea necesario, también otorgas a Areyouin y a nuestros socios comerciales el derecho y licencia no restringidos, mundiales y perpetuos para usar cualquier contenido público que hayas creado, cargado, publicado o enviado. Esto significa, entre otras cosas, que no tendrás derecho a ninguna compensación por parte de Areyouin ni de nuestros socios comerciales si tu nombre, apariencia o voz se transmiten a través los Servicios.</p>
-  <p>Para obtener más información sobre la manera de personalizar quién puede ver tu contenido, revisa nuestra <a href="#">política de privacidad</a>.</p>
   <p>Aunque no se nos exige hacerlo, podemos acceder, revisar, filtrar y eliminar tu contenido en cualquier momento y por cualquier motivo, inclusive si consideramos que tu contenido infringe estas Condiciones. No obstante, tú serás el único responsable del contenido que crees, cargues, publiques, envíes o almacenes a través del Servicio.</p>
   <p>Los Servicios pueden incluir publicidad. Como contraprestación para que Areyouin te permita acceder a los Servicios y usarlos, aceptas que Areyouin, sus filiales y terceros socios puedan incluir publicidad en ellos.</p>
   <p>Siempre nos complace escuchar a nuestros usuarios. Sin embargo, si nos envías voluntariamente tus comentarios o sugerencias, debes saber que podemos usar tus ideas sin darte una compensación.</p>
@@ -49,12 +48,12 @@ date = "2016-08-26T03:57:09+02:00"
 <div class="legal-info">
   <h3>4. El contenido de otras personas</h3>
   <p>Gran parte del contenido de nuestros Servicios es producido por usuarios, editores y otros terceros. Ya se publique abiertamente o se envíe de manera privada, el contenido es responsabilidad exclusiva de la persona u organización que lo envió. Aunque Areyouin se reserva el derecho a revisar todo el contenido que aparece en los Servicios y retirar el que infrinja estas Condiciones, no necesariamente lo revisamos por completo. Por lo tanto, no podemos asumir ni asumimos responsabilidad alguna por el contenido que proporcionan otras personas a través de los Servicios.</p>
-  <p>Por medio de estas Condiciones, dejamos claro nuestro deseo de que los Servicios no se utilicen para fines incorrectos. Sin embargo, dado que no revisamos todo el contenido, no podemos garantizar que el contenido de los Servicios cumpla siempre nuestras Condiciones o Guías.</p>
+  <p>Por medio de estas Condiciones, dejamos claro nuestro deseo de que los Servicios no se utilicen para fines incorrectos. Sin embargo, dado que no revisamos todo el contenido, no podemos garantizar que el contenido de los Servicios cumpla siempre nuestras Condiciones.</p>
 </div>
 
 <div class="legal-info">
-  <h3>5. Privacidad</h3>
-  <p>Tu privacidad nos importa. Puedes aprender sobre cómo manejamos tu información cuando usas nuestros Servicios leyendo nuestra <a href="#">Política de Privacidad</a>. La política de privacidad de Areyouin explica el tratamiento de los datos personales y la protección de la privacidad al usar nuestros Servicios. Si usas nuestros Servicios, aceptas que Areyouin use dichos datos de conformidad con nuestra  política de privacidad.</p>
+  <h3>5. Protección de la privacidad y de los derechos de autor</h3>
+  <p>Tu privacidad nos importa. Puedes aprender sobre cómo manejamos tu información cuando usas nuestros Servicios leyendo nuestra <a href="/legal/privacy">Política de Privacidad</a>. La política de privacidad de Areyouin explica el tratamiento de los datos personales y la protección de la privacidad al usar nuestros Servicios. Si usas nuestros Servicios, aceptas que Areyouin use dichos datos de conformidad con nuestra  política de privacidad.</p>
   <p>Respondemos a las notificaciones de presuntas infracciones de los derechos de autor y cancelamos las cuentas de los usuarios que cometen infracciones reiteradas de acuerdo con el proceso establecido en la ley de Propiedad Intelectual española.</p>
 </div>
 
@@ -91,8 +90,8 @@ date = "2016-08-26T03:57:09+02:00"
     <li>No intentarás pasar por alto cualquier técnica de filtrado de contenido implementada ni intentarás acceder a áreas o características de los Servicios para los que no tienes permiso;</li>
     <li>No incentivarás ni promoverás ninguna actividad que infrinja estas Condiciones.</li>
   </ul>
-  <p>Nos tomamos muy en serio la seguridad. Somos conscientes de que ningún servicio está libre de ataques en la red. Por eso si deseas examinar o probar la vulnerabilidad de nuestros Servicios o de cualquier sistema o red, ponte en contacto con nosotros y estudiaremos la forma de preparar un entorno que no interfiera con el funcionamiento normal del Servicio.</p>
-  <p>También nos preocupamos de tu seguridad mientras usas nuestros Servicios. Por este motivo, no debes usar los Servicios de una manera que pueda distraerte del cumplimiento de las leyes de tránsito o seguridad. Nunca te pongas en peligro a ti ni a los demás por utilizar AreYouIN.</p>
+  <p>Nos tomamos muy en serio la seguridad. Somos conscientes de que ningún servicio está libre de ataques en la red. Sin embargo, probar nuestros Servicios para encontrar vulnerabilidades se considera un mal uso de lo mismos y dicha práctica queda prohibida por estas Condiciones, a menos que tengas consentimiento escrito de Areyouin. Por eso si deseas examinar nuestros servicios, ponte en contacto con nosotros.</p>
+  <p>También nos preocupamos de tu seguridad mientras usas nuestros Servicios. Por este motivo, no debes usar los mismos de una manera que pueda distraerte del cumplimiento de las leyes de tránsito o seguridad. Nunca te pongas en peligro a ti ni a los demás por utilizar AreYouIN.</p>
 </div>
 
 <div class="legal-info">
@@ -110,9 +109,10 @@ date = "2016-08-26T03:57:09+02:00"
 </div>
 
 <div class="legal-info">
-  <h3>9. Cargos de datos y teléfonos móviles</h3>
-  <p>Eres responsable de asumir cualquier gasto de teléfono móvil en el que incurras al usar nuestros Servicios, incluidos los cobros aplicados por tráfico de datos y por el envío de mensajes de texto. Si no sabes con seguridad cuáles pueden ser esos gastos, debes preguntar a tu proveedor antes de usar los Servicios.</p>
-  <p>Si cambias o desactivas el número del teléfono móvil, cuenta de Facebook o e-mail que usaste para crear la cuenta en AreYouIN, debes actualizar la información de tu cuenta en un plazo de 72 horas, para evitar que enviemos a otra persona mensajes dirigidos a ti.</p>
+  <h3>9. Dispositivos móviles y de otros tipos</h3>
+  <p>Actualmente ofrecemos nuestros servicios para dispositivos móviles de forma gratuita pero ten en cuenta que se aplicarán las tarifas normales de tu operadora, por ejemplo, para mensajes de texto y datos.</p>
+  <p>En caso de que cambies o desactives tu número de teléfono móvil, actualizarás la información de tu cuenta de AreYouIN en un plazo de 72 horas para garantizar que los mensajes no se le envíen por error a la persona que pudiera adquirir tu antiguo número.</p>
+  <p>Proporcionas tu consentimiento y todos los derechos necesarios para permitir que los usuarios sincronicen sus dispositivos con cualquier información que puedan ver en AreYouIN.</p>
 </div>
 
 <div class="legal-info">
@@ -124,7 +124,7 @@ date = "2016-08-26T03:57:09+02:00"
   <h3>11. Modificación de los Servicios y rescisión</h3>
   <p>Mejoramos continuamente nuestros Servicios y creamos otros nuevos continuamente. Esto significa que podemos agregar o retirar características, productos o funcionalidades, y que también podemos suspender o detener los Servicios en su totalidad. Podemos llevar a cabo estas acciones en cualquier momento y, cuando lo hagamos, es posible que no te demos ningún aviso previo.</p>
 
-  <p>Aunque esperamos que nuestros Servicios se ajusten a ti, puedes rescindir estas Condiciones en cualquier momento y por cualquier motivo eliminando tu cuenta. Si no existe un mecanismo automático para ello, ponte en contacto con nuestro servicio de <a href="mailto:customer@areyouin.es">atención al cliente</a>.</p>
+  <p>Aunque esperamos que nuestros Servicios se ajusten a ti, puedes rescindir estas Condiciones en cualquier momento y por cualquier motivo eliminando tu cuenta. Si no existe un mecanismo automático para ello, ponte en contacto con nuestro servicio de <a href="mailto:support@areyouin.es">atención al cliente</a>.</p>
 
   <p>Areyouin también puede rescindir estas Condiciones contigo en cualquier momento, por cualquier motivo y sin aviso previo. Esto significa que podríamos dejar de prestarte los Servicios o bien imponer límites nuevos o adicionales a tu capacidad para utilizarlos. Por ejemplo, podríamos desactivar tu cuenta debido a un periodo de inactividad prolongado y recuperar tu nombre de usuario en cualquier momento y por cualquier motivo.</p>
 

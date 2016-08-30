@@ -1,0 +1,16 @@
+#cookie1 {
+  display: none;
+  position:fixed;
+  bottom:0px;
+  left: 0px;
+  width:100%;
+  margin:0 auto;
+  padding: 8px;
+  font-size: 1.2em;
+  font-weight: strong;
+  color: #ccc;
+  background-color: #000;
+  opacity:0.90;
+  filter:alpha(opacity=90); /* For IE8 and earlier */
+  z-index:999999999;
+}

@@ -1,4 +1,4 @@
 theme = "areyouin-land"
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "/"
 title = "Diviértete con tus amigos y haz nuevas amistades"
-languageCode = "en-us"
+languageCode = "es-ES"

@@ -7,7 +7,7 @@ div.legal-wrapper h1 {
   margin-bottom: 32px;
 }
 
-div.legal-wrapper .title {
+div.legal-wrapper h1.title {
   text-align: center;
 }
 
@@ -19,12 +19,16 @@ div.legal-info p {
   margin-bottom: 16px;
 }
 
-div.legal-info h3,h4 {
+div.legal-info h2, h3,h4 {
   color: #009688;
 }
 
-div.legal-info h4 {
+div.legal-info h3, h4 {
   margin-top: 16px;
+}
+
+div.legal-info strong {
+  color: #009688;
 }
 
 div.side-bar {
@@ -37,4 +41,14 @@ div.side-bar h4 {
 
 div.side-bar ul {
   list-style-type: none;
+}
+
+li.title {
+  color: #009688;
+  font-weight: bold;
+}
+
+li.body {
+  list-style-type: none;
+  margin-bottom: 16px;
 }
