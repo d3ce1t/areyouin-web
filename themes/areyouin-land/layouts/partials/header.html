@@ -9,9 +9,9 @@
   <meta name="author" content="">
 
   {{if .IsPage}}
-  {{ $relativeURL := replace .RelPermalink .Site.BaseURL "" }}
-  <link rel="alternate" hreflang="es" href="{{ .Site.BaseURL }}{{ $relativeURL }}" />
-  <link rel="alternate" hreflang="en" href="{{ .Site.BaseURL }}{{ $relativeURL }}" />
+  {{ $relativeURL := replace .Permalink .Site.BaseURL "" }}
+  <link rel="alternate" hreflang="es" href="https://www.areyouin.es/{{ $relativeURL }}" />
+  <link rel="alternate" hreflang="en" href="https://www.areyouin.es/en/{{ $relativeURL }}" />
   {{else}}
   <link rel="alternate" hreflang="es" href="https://www.areyouin.es/" />
   <link rel="alternate" hreflang="en" href="https://www.areyouin.es/en/" />
