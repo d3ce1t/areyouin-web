@@ -1,0 +1,43 @@
+home = "Inicio"
+top = "Subir arriba"
+sectionFeatures = "Características"
+sectionDownload = "Descarga"
+
+topSlogan = "Diviértete con tus amigos y haz nuevas amistades"
+topParagraph = "AreYouIN es una aplicación móvil gratuita disponible en Google Play y App Store para quedar con tus amigos y conocer gente haciendo lo que te gusta. Con AreYouIN podrás ver al instante qué planes tienes y apuntarte al plan que más te guste."
+
+markEventsTitle = "Eventos"
+markEventsBody = "Tus eventos y los de tus amigos organizados en una única lista con la información que necesitas."
+
+markFriendsTitle = "Amigos"
+markFriendsBody = "Organiza todos tus amigos en grupos. Así podrás publicar eventos dirigidos a grupos concretos."
+
+markSecurityTitle = "Seguridad"
+markSecurityBody = "Comunicaciones seguras (TLS) entre AreYouIN y tu dispositivo móvil."
+
+featureOneTitle = "Crea eventos rápidamente."
+featureOneSubtitle = "Haz lo que te gusta."
+featureOneBody = "AreYouIN simplifica la forma de quedar con tus amigos. ¿Te apetece salir esta noche? Crea un evento rápidamente y deja que AreYouIN se encargue de todo lo demás. ¿Tu cumpleaños se acerca? Organiza un evento a través de AreYouIN y tendrás una lista de invitados actualizada. Di adiós a copiar y pegar mensajes con listas de asistentes."
+
+featureTwoTitle = "Invita a tus amigos."
+featureTwoSubtitle = "No te olvides de nadie."
+featureTwoBody = "Invita a tus amigos a un evento y automáticamente recibirán una notificación. Además, en todo momento sabrás qué amigos han recibido la invitación y si irán o no al evento. ¿Te has dejado a alguien? No hay problema, puedes invitar a tus amigos en cualquier momento y sin complicaciones antes de que empiece el evento."
+
+featureThreeTitle = "Organiza tus planes."
+featureThreeSubtitle = "Conoce gente nueva."
+featureThreeBody = "¿No sabes qué hacer mañana? Echa un vistazo a tu lista de eventos y elige el plan que más te guste. Diviértete con tus amigos y conoce gente nueva realizando tu actividad favorita. Con AreYouIN podrás ver los eventos que organizan tus amigos y todos los participantes del evento sin censura, aunque no estén en tu lista de amigos."
+
+featureFourTitle = "Tus amigos de siempre."
+featureFourSubtitle = "Nuevos amigos."
+featureFourBody = "Gestiona tu lista de amigos de forma fácil y sencilla. ¿Tus amigos de Facebook ya utilizan AreYouIN? Traete a tus amigos de siempre entrando con Facebook en AreYouIN o vinculando tu cuenta más tarde. Si lo prefieres, también puedes añadir nuevos amigos utilizando su e-mail."
+
+bottomSlogan = "Prueba AreYouIN"
+bottomParagraph = "La app gratuita para quedar con tus amigos y conocer gente nueva."
+bottomAvailable = "Disponible en Google Play y App Store."
+bottomAvailableSub = "(Próximamente)"
+
+cookiesPolicy = "Política de cookies"
+legalNotice = "Aviso legal"
+and = "y"
+cookiesMsg = "Este sitio web utiliza cookies de terceros para obtener datos estadísticos de la navegación de nuestros usuarios y mejorar nuestros servicios. Si acepta o continúa navegando, consideramos que acepta su uso. Para más información consulta nuestra <a href=\"/legal/cookies\">Política de cookies</a>."
+cookiesAcceptButton = "Aceptar"

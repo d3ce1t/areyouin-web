@@ -1,0 +1,44 @@
+
+home = "Home"
+top = "Top"
+sectionFeatures = "Features"
+sectionDownload = "Download"
+
+topSlogan = "Enjoy your friends and meet new ones"
+topParagraph = "AreYouIN is a free app available in Google Play and App Store to hang out with friends and meet new peeple doing whatever you like. AreYouIN lets you know quickly what are your friends' plans and join the one you like the most."
+
+markEventsTitle = "Events"
+markEventsBody = "Your events and the ones of your friends all organized in a single list with all the info you need."
+
+markFriendsTitle = "Friends"
+markFriendsBody = "Organize your friends into groups. This way, you can target specific friend groups when publishing events."
+
+markSecurityTitle = "Safety"
+markSecurityBody = "Secure communications (TLS) between AreYouIN and your device."
+
+featureOneTitle = "Create events quickly."
+featureOneSubtitle = "Do whatever you like."
+featureOneBody = "AreYoIN simplifies the way you meet your friends. Would you like to go out tonight? Create an event quickly and let AreyouIN in charge of the rest. Is your birthday comming? Organize an event through AreYouIN and you will have an updated guest list. Say goodbye to copy & paste messages with a list of attendees."
+
+featureTwoTitle = "Invite your friends."
+featureTwoSubtitle = "Don't leave anybody out."
+featureTwoBody = "Invite your friends to an event and they will be notified automatically. Moreover, at all times, you will know what friends have received the invitation and whether they will assist or not. Have you left someone out? Don't worry, you can invite your friends easily at anytime before the event starts."
+
+featureThreeTitle = "Organize your plans."
+featureThreeSubtitle = "Meet new people."
+featureThreeBody = "Don't you know what to do tomorrow? Take a look at your event list and choose the plan you like the most. Enjoy your friends and meet new people doing your favorite activity. AreYouIN lets you see events organized by your friends along all of the participants, even when a participant isn't in your friend list."
+
+featureFourTitle = "Old friends."
+featureFourSubtitle = "New friends."
+featureFourBody = "AreYouIN lets you manage your friend list in an easy way. Are your Facebook friends already using AreYouIN? Bring your old friends to AreYouIN by signing in with Facebook or linking your Facebook account to AreYouIN later. Or if you prefer,  you can add new friends by e-mail address."
+
+bottomSlogan = "Get AreYouIN"
+bottomParagraph = "The free app to hang out with friends and meet new people."
+bottomAvailable = "Available in Google Play and App Store."
+bottomAvailableSub = "(Comming soon)"
+
+cookiesPolicy = "Cookies policy"
+legalNotice = "Legal notice"
+and = "and"
+cookiesMsg = "This web site uses third-party cookies to get statiscal data from users navigation in order to improve our services. If you accept or keep using this site, we assume you agree to use cookies. Please, see our <a href=\"/en/legal/cookies\">cookies policy</a> to get more information."
+cookiesAcceptButton = "OK"

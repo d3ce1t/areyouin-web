@@ -1,0 +1,9 @@
+theme = "areyouin-land"
+baseurl = "https://www.areyouin.es/en/"
+title = "Enjoy your friends and make new ones"
+languageCode = "en"
+contentdir = "content/en"
+publishdir = "public/en"
+
+[params]
+    locale = "en"

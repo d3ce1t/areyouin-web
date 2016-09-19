@@ -1,25 +1,19 @@
 {{ $.Scratch.Add "single" true }}
 {{ partial "header.html" . }}
 <div class="container-fluid">
-
   <div class="container">
-
     <div class="row">
-
       <div class="col-md-9 legal-wrapper">
         <h1 class="title">{{ .Title }}</h1>
         {{ .Content }}
       </div>
-
       <div class="col-md-3 side-bar legal-wrapper">
         <ul>
-          <li><a href="{{ .Site.BaseURL }}legal/info">Aviso legal</a></li>
-          <li><a href="{{ .Site.BaseURL }}legal/terms">Condiciones del servicio</a></li>
-          <li><a href="{{ .Site.BaseURL }}legal/privacy">Política de privacidad</a></li>
-          <li><a href="{{ .Site.BaseURL }}legal/cookies">Política de cookies</a></li>
+          {{ range .Site.Pages.ByTitle }}
+          <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+          {{ end }}
         </ul>
       </div>
-
     </div>
   </div>
 </div>

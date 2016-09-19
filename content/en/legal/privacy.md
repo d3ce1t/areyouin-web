@@ -1,5 +1,5 @@
 +++
-title = "Política de privacidad"
+title = "Privacy policy"
 date = "2016-08-26T03:58:28+02:00"
 +++
 <div class="legal-info">

@@ -1,26 +1,26 @@
 <a name="home"></a>
 
-<!-- Toolbar -->
-<div class="container-fluid navbar-wrapper navbar-static-top">
-  <div class="row">
-    <div class="col-md-12">
-        <nav class="navbar navbar-transparent">
-          <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-              <span class="sr-only">Toggle navigation</span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </button>
-            <span class="navbar-brand">AreYouIN</span>
-          </div>
-          <div class="navbar-collapse collapse pull-right">
-            <ul class="nav navbar-nav">
-              <li><a href="#features">Características</a></li>
-              <li><a href="#download">Descarga</a></li>
-            </ul>
-          </div>
-        </nav>
+<!-- Static navbar -->
+<nav class="navbar navbar-default navbar-static-top">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <span class="navbar-brand">AreYouIN</span>
     </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li><a href="#features">{{ ( index $.Site.Data.translations $.Site.Params.locale ).sectionFeatures }}</a></li>
+        <li><a href="#download">{{ ( index $.Site.Data.translations $.Site.Params.locale ).sectionDownload }}</a></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="/en/">English</a></li>
+        <li><a href="/">Spanish</a></li>
+      </ul>
+    </div><!--/.nav-collapse -->
   </div>
-</div>
+</nav>

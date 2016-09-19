@@ -30,7 +30,7 @@ title = "Aviso legal"
   <p>Este sitio web no utiliza cookies propias. Sin embargo, empleamos Google Analytics
   para monitorizar el tráfico web y conocer mejor a nuestros futuros usuarios. Este tipo
   de servicios puede instalar una cookie en su navegador web. Para más información consulte
-  nuestra <a href="/legal/cookies/">Política de cookies</a>.
+  nuestra <a href="/legal/cookies/">Política de cookies</a>.</p>
 </div>
 
 <div class="legal-info">

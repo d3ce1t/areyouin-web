@@ -7,27 +7,22 @@
       <div class="col-sm-6 col-sm-offset-1 description">
         <div class="row">
           <div class="col-sm-12">
-            <h2>Diviértete con tus amigos y haz nuevas amistades</h2>
-            <h5>
-              AreYouIN es una aplicación móvil gratuita disponible en Google Play y App Store para
-              quedar con tus amigos y conocer gente haciendo lo que te gusta. Con AreYouIN
-              podrás ver al instante qué planes tienes y apuntarte al plan que más te guste.
-            </h5>
+            <h2>{{ ( index $.Site.Data.translations $.Site.Params.locale ).topSlogan }}</h2>
+            <h5>{{ ( index $.Site.Data.translations $.Site.Params.locale ).topParagraph }}</h5>
           </div>
         </div>
         <div class="row">
           <div class="col-xs-6 download-google-play">
-            <!--<a href="#">-->
+            <a href="https://play.google.com/store/apps/details?id=es.peeple.areyouin" onclick="trackOutboundLink('https://play.google.com/store/apps/details?id=es.peeple.areyouin'); return false;">
             <img alt="Get it on Google Play" src="images/google-play-badge.png" />
-            <!--</a>-->
-            <p>(Próximamente)</p>
+            </a>
           </div>
 
           <div class="col-xs-6 download-apple-store">
+            <a href="https://itunes.apple.com/es/app/areyouin-meet-your-friends/id1131326903" onclick="trackOutboundLink('https://itunes.apple.com/es/app/areyouin-meet-your-friends/id1131326903'); return false;">
             <img alt="Download on the App Store" src="images/apple-store-badge.png" />
-            <p>(Próximamente)</p>
+            </a>
           </div>
-
         </div>
       </div>
 
@@ -47,18 +42,18 @@
     <div class="col-sm-4">
 
       <img src="images/events.png" alt="Generic placeholder image" width="140" height="140">
-      <h2>Eventos</h2>
-      <p>Tus eventos y los de tus amigos organizados en una única lista con la información que necesitas.</p>
+      <h2>{{ ( index $.Site.Data.translations $.Site.Params.locale ).markEventsTitle}}</h2>
+      <p>{{ ( index $.Site.Data.translations $.Site.Params.locale ).markEventsBody}}</p>
     </div><!-- /.col-lg-4 -->
     <div class="col-sm-4">
       <img src="images/friends.png" alt="Generic placeholder image" width="140" height="140">
-      <h2>Amigos</h2>
-      <p>Organiza todos tus amigos en grupos. Así podrás publicar eventos dirigidos a grupos concretos.</p>
+      <h2>{{ ( index $.Site.Data.translations $.Site.Params.locale ).markFriendsTitle}}</h2>
+      <p>{{ ( index $.Site.Data.translations $.Site.Params.locale ).markFriendsBody}}</p>
     </div><!-- /.col-lg-4 -->
     <div class="col-sm-4">
       <img src="images/security.png" alt="Generic placeholder image" width="140" height="140">
-      <h2>Seguridad</h2>
-      <p>Comunicaciones cifradas (TLS) entre AreYouIN y tu dispositivo móvil.</p>
+      <h2>{{ ( index $.Site.Data.translations $.Site.Params.locale ).markSecurityTitle}}</h2>
+      <p>{{ ( index $.Site.Data.translations $.Site.Params.locale ).markSecurityBody}}</p>
     </div><!-- /.col-lg-4 -->
   </div><!-- /.row -->
 </div><!-- /.container -->
@@ -72,8 +67,9 @@
 
     <div class="row featurette">
       <div class="col-md-7">
-        <h2 class="featurette-heading">Crea eventos rápidamente. <span class="text-muted">Haz lo que te gusta.</span></h2>
-        <p class="lead">AreYouIN simplifica la forma de quedar con tus amigos. ¿Te apetece salir esta noche? Crea un evento rápidamente y deja que AreYouIN se encargue de todo lo demás. ¿Tu cumpleaños se acerca? Organiza un evento a través de AreYouIN y tendrás una lista de invitados actualizada. Di adiós a copiar y pegar mensajes con listas de asistentes.</p>
+        <h2 class="featurette-heading">{{ ( index $.Site.Data.translations $.Site.Params.locale ).featureOneTitle }}
+        <span class="text-muted">{{ ( index $.Site.Data.translations $.Site.Params.locale ).featureOneSubtitle }}</span></h2>
+        <p class="lead">{{ ( index $.Site.Data.translations $.Site.Params.locale ).featureOneBody }}</p>
       </div>
       <div class="col-md-5">
         <img class="featurette-image img-responsive center-block" src="images/publish_event.jpg" alt="Generic placeholder image">
@@ -84,8 +80,9 @@
 
     <div class="row featurette">
       <div class="col-md-7 col-md-push-5">
-        <h2 class="featurette-heading">Invita a tus amigos. <span class="text-muted">No te olvides de nadie.</span></h2>
-        <p class="lead">Invita a tus amigos al evento y automáticamente recibirán una notificación. Además, en todo momento sabrás qué amigos han recibido la invitación y si irán o no al evento.¿Te has dejado a alguien? No hay problema, puedes invitar a tus amigos en cualquier momento y sin complicaciones antes de que empiece el evento.</p>
+        <h2 class="featurette-heading">{{ ( index $.Site.Data.translations $.Site.Params.locale ).featureTwoTitle }}
+        <span class="text-muted">{{ ( index $.Site.Data.translations $.Site.Params.locale ).featureTwoSubtitle}}</span></h2>
+        <p class="lead">{{ ( index $.Site.Data.translations $.Site.Params.locale ).featureTwoBody }}</p>
       </div>
       <div class="col-md-5 col-md-pull-7">
         <img class="featurette-image img-responsive center-block" src="images/invite_friends.jpg" alt="Generic placeholder image">
@@ -96,14 +93,12 @@
 
     <div class="row featurette">
       <div class="col-md-7">
-        <h2 class="featurette-heading">Organiza tus planes. <span class="text-muted">Conoce gente nueva.</span></h2>
+        <h2 class="featurette-heading">{{ ( index $.Site.Data.translations $.Site.Params.locale ).featureThreeTitle }}
+        <span class="text-muted">{{ ( index $.Site.Data.translations $.Site.Params.locale ).featureThreeSubtitle }}</span></h2>
         <!--<p class="lead">¿No sabes qué hacer mañana? Echa un vistazo a tu lista de eventos y elige el plan que más te guste.
         Diviértete con tus amigos y conoce gente nueva realizando tu actividad favorita. Con AreYouIN podrás ver los eventos
         que organizan tus amigos, además de los eventos que otras personas organizan en tu ciudad.</p>-->
-        <p class="lead">
-          ¿No sabes qué hacer mañana? Echa un vistazo a tu lista de eventos y elige el plan que más te guste.
-          Diviértete con tus amigos y conoce gente nueva realizando tu actividad favorita. Con AreYouIN podrás ver los eventos que organizan tus amigos y todos los participantes del evento sin censura, aunque no estén en tu lista de amigos.
-        </p>
+        <p class="lead">{{ ( index $.Site.Data.translations $.Site.Params.locale ).featureThreeBody }}</p>
       </div>
       <div class="col-md-5">
         <img class="featurette-image img-responsive center-block" src="images/events_list.jpg" alt="Generic placeholder image">
@@ -114,10 +109,9 @@
 
     <div class="row featurette">
       <div class="col-md-7 col-md-push-5">
-        <h2 class="featurette-heading">Tus amigos de siempre. <span class="text-muted">Nuevos amigos.</span></h2>
-        <p class="lead">
-          Gestiona tu lista de amigos de forma fácil y sencilla. ¿Tus amigos de Facebook ya utilizan AreYouIN? Traete a tus amigos de siempre entrando con Facebook en AreYouIN o vinculando tu cuenta más tarde. Si lo prefieres, también puedes añadir nuevos amigos utilizando su e-mail.
-        </p>
+        <h2 class="featurette-heading">{{ ( index $.Site.Data.translations $.Site.Params.locale ).featureFourTitle }}
+        <span class="text-muted">{{ ( index $.Site.Data.translations $.Site.Params.locale ).featureFourSubtitle}}</span></h2>
+        <p class="lead">{{ ( index $.Site.Data.translations $.Site.Params.locale ).featureFourBody }}</p>
       </div>
       <div class="col-md-5 col-md-pull-7">
         <img class="featurette-image img-responsive center-block" src="images/groups.jpg" alt="Generic placeholder image">
@@ -136,10 +130,10 @@
     <div class="row">
       <div class="col-md-12">
         <a name="download"></a>
-        <h2>Prueba AreYouIN</h2>
+        <h2>{{ ( index $.Site.Data.translations $.Site.Params.locale ).bottomSlogan }}</h2>
         <h5>
-          La app gratuita para quedar con tus amigos y conocer gente nueva.<br/>
-          Disponible en Google Play y App Store.
+          {{ ( index $.Site.Data.translations $.Site.Params.locale ).bottomParagraph}}<br/>
+          {{ ( index $.Site.Data.translations $.Site.Params.locale ).bottomAvailable}}
         </h5>
       </div>
     </div>
@@ -147,17 +141,15 @@
     <div class="row">
       <!-- Google Play -->
       <div class="col-xs-6 download-google-play">
-        <!--<a href="#">-->
+        <a href="https://play.google.com/store/apps/details?id=es.peeple.areyouin" onclick="trackOutboundLink('https://play.google.com/store/apps/details?id=es.peeple.areyouin'); return false;">
         <img alt="Get it on Google Play" src="images/google-play-badge.png" />
-        <!--</a>-->
-        <p>(Próximamente)</p>
+        </a>
       </div>
       <!-- Apple Store -->
       <div class="col-xs-6 download-apple-store">
-        <!--<a href="#">-->
+        <a href="https://itunes.apple.com/es/app/areyouin-meet-your-friends/id1131326903" onclick="trackOutboundLink('https://itunes.apple.com/es/app/areyouin-meet-your-friends/id1131326903'); return false;">
         <img alt="Download on the App Store" src="images/apple-store-badge.png" />
-        <!--</a>-->
-        <p>(Próximamente)</p>
+        </a>
       </div>
     </div>
   </div> <!-- End container -->

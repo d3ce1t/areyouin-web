@@ -1,0 +1,9 @@
+theme = "areyouin-land"
+baseurl = "https://www.areyouin.es/"
+title = "Diviértete con tus amigos y haz nuevas amistades"
+languageCode = "es-ES"
+contentdir = "content/es"
+publishdir = "public"
+
+[params]
+    locale = "es-ES"
