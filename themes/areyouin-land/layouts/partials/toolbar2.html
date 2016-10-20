@@ -17,8 +17,14 @@
         <li><a href="{{ .Site.BaseURL }}">{{ ( index $.Site.Data.translations $.Site.Params.locale ).home }}</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="/en/">English</a></li>
-        <li><a href="/">Spanish</a></li>
+        {{if .IsPage}}
+        {{ $relativeURL := replace .Permalink .Site.BaseURL "" }}
+        <li><a href="https://www.areyouin.io/{{ $relativeURL }}">English</a></li>
+        <li><a href="https://www.areyouin.es/{{ $relativeURL }}">Spanish</a></li>
+        {{else}}
+        <li><a href="https://www.areyouin.io/">English</a></li>
+        <li><a href="https://www.areyouin.es/">Spanish</a></li>
+        {{end}}
       </ul>
     </div><!--/.nav-collapse -->
   </div>

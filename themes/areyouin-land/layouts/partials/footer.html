@@ -14,9 +14,9 @@
     <div class="col-md-6 col-md-pull-2">
       <!--<p>&copy; 2016 <a href="#">AreYouIN.</a>  <a href="#">Terms</a> and <a href="#">Privacy Policy</a></p>-->
       <p>&copy; 2015-2016 AreYouIN&trade;
-        <a href="{{ .Site.BaseURL }}legal/info">{{ ( index $.Site.Data.translations $.Site.Params.locale ).legalNotice }}</a>
+        <a href="{{ .Site.BaseURL }}legal/info" rel="nofollow">{{ ( index $.Site.Data.translations $.Site.Params.locale ).legalNotice }}</a>
         {{ ( index $.Site.Data.translations $.Site.Params.locale ).and }}
-        <a href="{{ .Site.BaseURL }}legal/cookies">{{ ( index $.Site.Data.translations $.Site.Params.locale ).cookiesPolicy }}</a>
+        <a href="{{ .Site.BaseURL }}legal/cookies" rel="nofollow">{{ ( index $.Site.Data.translations $.Site.Params.locale ).cookiesPolicy }}</a>
       </p>
     </div>
   </div>

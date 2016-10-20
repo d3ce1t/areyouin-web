@@ -10,11 +10,11 @@
 
   {{if .IsPage}}
   {{ $relativeURL := replace .Permalink .Site.BaseURL "" }}
+  <link rel="alternate" hreflang="en" href="https://www.areyouin.io/{{ $relativeURL }}" />
   <link rel="alternate" hreflang="es" href="https://www.areyouin.es/{{ $relativeURL }}" />
-  <link rel="alternate" hreflang="en" href="https://www.areyouin.es/en/{{ $relativeURL }}" />
   {{else}}
+  <link rel="alternate" hreflang="en" href="https://www.areyouin.io/" />
   <link rel="alternate" hreflang="es" href="https://www.areyouin.es/" />
-  <link rel="alternate" hreflang="en" href="https://www.areyouin.es/en/" />
   {{end}}
 
   <!-- Favicon -->
@@ -28,7 +28,7 @@
   <meta name="theme-color" content="#ffffff">
 
   {{ if $.Scratch.Get "single" }}
-  <title>AreYouIN - {{ .Title }}</title>
+  <title>{{ .Title }} - AreYouIN</title>
   {{ else }}
   <title>{{ .Title }}</title>
   {{ end }}
