@@ -11,10 +11,10 @@
   {{if .IsPage}}
   {{ $relativeURL := replace .Permalink .Site.BaseURL "" }}
   <link rel="alternate" hreflang="en" href="https://www.areyouin.io/{{ $relativeURL }}" />
-  <link rel="alternate" hreflang="es" href="https://www.areyouin.es/{{ $relativeURL }}" />
+  <link rel="alternate" hreflang="es" href="https://www.areyouin.io/es/{{ $relativeURL }}" />
   {{else}}
   <link rel="alternate" hreflang="en" href="https://www.areyouin.io/" />
-  <link rel="alternate" hreflang="es" href="https://www.areyouin.es/" />
+  <link rel="alternate" hreflang="es" href="https://www.areyouin.io/es/" />
   {{end}}
 
   <!-- Favicon -->

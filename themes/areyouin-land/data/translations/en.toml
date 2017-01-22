@@ -1,8 +1,10 @@
-
 home = "Home"
 top = "Top"
 sectionFeatures = "Features"
 sectionDownload = "Download"
+
+googlePlayDownloadURL = "https://play.google.com/store/apps/details?id=es.peeple.areyouin"
+itunesDownloadURL = "https://itunes.apple.com/app/areyouin-meet-your-friends/id1131326903"
 
 topSlogan = "Enjoy your friends and meet new ones"
 topParagraph = "AreYouIN is a free app available in Google Play and App Store to hang out with friends and meet new peeple doing whatever you like. AreYouIN lets you know quickly what are your friends' plans and join the one you like the most."
@@ -40,5 +42,5 @@ bottomAvailableSub = "(Comming soon)"
 cookiesPolicy = "Cookies policy"
 legalNotice = "Legal notice"
 and = "and"
-cookiesMsg = "This web site uses third-party cookies to get statiscal data from users navigation in order to improve our services. If you accept or keep using this site, we assume you agree to use cookies. Please, see our <a href=\"/legal/cookies\">cookies policy</a> to get more information."
+cookiesMsg = "This web site uses third-party cookies to get statiscal data from users navigation in order to improve our services. If you accept or keep using this site, we assume you agree to use cookies. Please, see our <a href=\"/legal/cookies/\">cookies policy</a> to get more information."
 cookiesAcceptButton = "OK"

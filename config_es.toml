@@ -1,5 +1,5 @@
 theme = "areyouin-land"
-baseurl = "https://www.areyouin.es/"
+baseurl = "https://www.areyouin.io/es/"
 title = "AreYouIN: Queda con tus amigos y conoce gente nueva"
 languageCode = "es-ES"
 contentdir = "content/es"

@@ -3,8 +3,6 @@ title = "Condiciones del servicio"
 date = "2016-08-26T03:57:09+02:00"
 +++
 <div class="legal-info">
-  <!--<p>Este acuerdo se ha redactado en español de España. En caso de existir discrepancias entre el original y una versión traducida, el original en español es el documento vinculante.</p>-->
-
   <p>Vigente a partir de: 25 de agosto de 2016</p>
 
   <h2>¡Bienvenido!</h2>
@@ -53,7 +51,7 @@ date = "2016-08-26T03:57:09+02:00"
 
 <div class="legal-info">
   <h3>5. Protección de la privacidad y de los derechos de autor</h3>
-  <p>Tu privacidad nos importa. Puedes aprender sobre cómo manejamos tu información cuando usas nuestros Servicios leyendo nuestra <a href="/legal/privacy">Política de Privacidad</a>. La política de privacidad de Areyouin explica el tratamiento de los datos personales y la protección de la privacidad al usar nuestros Servicios. Si usas nuestros Servicios, aceptas que Areyouin use dichos datos de conformidad con nuestra  política de privacidad.</p>
+  <p>Tu privacidad nos importa. Puedes aprender sobre cómo manejamos tu información cuando usas nuestros Servicios leyendo nuestra <a href="{{% siteurl %}}legal/privacy/">Política de Privacidad</a>. La política de privacidad de Areyouin explica el tratamiento de los datos personales y la protección de la privacidad al usar nuestros Servicios. Si usas nuestros Servicios, aceptas que Areyouin use dichos datos de conformidad con nuestra  política de privacidad.</p>
   <p>Respondemos a las notificaciones de presuntas infracciones de los derechos de autor y cancelamos las cuentas de los usuarios que cometen infracciones reiteradas de acuerdo con el proceso establecido en la ley de Propiedad Intelectual española.</p>
 </div>
 
@@ -105,7 +103,7 @@ date = "2016-08-26T03:57:09+02:00"
   <li>No compartirás tu contraseña;</li>
   <li>No iniciarás sesión ni intentarás acceder a los Servicios a través de aplicaciones no autorizadas de terceros o clientes.</li>
 </ul>
-<p>Si piensas que alguien obtuvo acceso a tu cuenta, por favor, comunícate de inmediato con nosotros en <a href="mailto:support@areyouin.es">soporte</a>.</p>
+<p>Si piensas que alguien obtuvo acceso a tu cuenta, por favor, comunícate de inmediato con nosotros en <a href="mailto:support@areyouin.io">soporte</a>.</p>
 </div>
 
 <div class="legal-info">
@@ -124,7 +122,7 @@ date = "2016-08-26T03:57:09+02:00"
   <h3>11. Modificación de los Servicios y rescisión</h3>
   <p>Mejoramos continuamente nuestros Servicios y creamos otros nuevos continuamente. Esto significa que podemos agregar o retirar características, productos o funcionalidades, y que también podemos suspender o detener los Servicios en su totalidad. Podemos llevar a cabo estas acciones en cualquier momento y, cuando lo hagamos, es posible que no te demos ningún aviso previo.</p>
 
-  <p>Aunque esperamos que nuestros Servicios se ajusten a ti, puedes rescindir estas Condiciones en cualquier momento y por cualquier motivo eliminando tu cuenta. Si no existe un mecanismo automático para ello, ponte en contacto con nuestro servicio de <a href="mailto:support@areyouin.es">atención al cliente</a>.</p>
+  <p>Aunque esperamos que nuestros Servicios se ajusten a ti, puedes rescindir estas Condiciones en cualquier momento y por cualquier motivo eliminando tu cuenta. Si no existe un mecanismo automático para ello, ponte en contacto con nuestro servicio de <a href="mailto:support@areyouin.io">atención al cliente</a>.</p>
 
   <p>Areyouin también puede rescindir estas Condiciones contigo en cualquier momento, por cualquier motivo y sin aviso previo. Esto significa que podríamos dejar de prestarte los Servicios o bien imponer límites nuevos o adicionales a tu capacidad para utilizarlos. Por ejemplo, podríamos desactivar tu cuenta debido a un periodo de inactividad prolongado y recuperar tu nombre de usuario en cualquier momento y por cualquier motivo.</p>
 

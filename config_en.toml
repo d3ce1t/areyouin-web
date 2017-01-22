@@ -3,7 +3,7 @@ baseurl = "https://www.areyouin.io/"
 title = "AreYouIN: Hang out with friends and meet new people"
 languageCode = "en"
 contentdir = "content/en"
-publishdir = "public/en"
+publishdir = "public"
 
 [params]
     locale = "en"

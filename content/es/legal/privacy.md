@@ -6,11 +6,11 @@ date = "2016-08-26T03:58:28+02:00"
   <h2>Te damos la bienvenida a la Política de privacidad de AreYouIN</h2>
   <p>Cuando utilizas los servicios de Areyouin nos confías tu información. Parte de esta información puede ser de carácter personal como, por ejemplo, tu nombre o tu e-mail. El objetivo de esta Política de privacidad es informarte sobre los datos que recogemos, los motivos por los que los recogemos y lo que hacemos con ellos. Esta información es importante, por lo que esperamos que dediques el tiempo necesario a leerla detenidamente.</p>
   <h2>Política de Privacidad</h2>
-  <p>Nuestra política de privacidad regula el uso que la app AreYouIN hace de tus datos personales cuando usas nuestros servicios. Esta política va unida a las <a href="/legal/terms">Condiciones del servicio</a>.</p>
+  <p>Nuestra política de privacidad regula el uso que la app AreYouIN hace de tus datos personales cuando usas nuestros servicios. Esta política va unida a las <a href="{{% siteurl %}}legal/terms/">Condiciones del servicio</a>.</p>
 </div>
 
 <div class="legal-info">
-  <h3>Datos recogidos por Areyouin</h3>
+  <h3>Información que recogemos</h3>
   <h4>Datos de registro</h4>
   <p>Al registrarte en AreYouIN nos proporcionas la siguiente información personal:</p>
   <ul>
@@ -32,9 +32,9 @@ date = "2016-08-26T03:58:28+02:00"
 <div class="legal-info">
   <h3>Cómo utilizamos los datos recogidos</h3>
   <p>Los datos recogidos durante el registro son utilizados para crear tu cuenta de usuario y, por tanto, poder diferenciarte de otros usuarios. Esto es importante para que otros usuarios puedan reconocerte en su lista de amigos y puedan saber quién es el autor de un evento.</p>
-  <p>Tu nombre y foto de perfil se comparten con otros usuarios a través de los eventos que publicas o en los que participas. Por ejemplo, cuando publicas un evento tu nombre será visible como autor del evento y en la lista de participantes. Del mismo modo, cuando te invitan a un evento tu nombre será también visible en la lista de participantes. Es importante destacar que únicamente tus amigos pueden ver tu foto de perfil en la lista de participantes, no así otros usuarios invitados al mismo evento.</p>
-  <p>Cuantos invitas a un amigo a AreYouIN que no es usuario del servicio, la dirección de correo electrónico que nos proporcionas es empleada únicamente con el fin de poder enviarle en tu nombre un e-mail de invitación.</p>
-  <p>Además, tu lista de amigos, junto a la de otros usuarios del servicio, puede ser empleada para recomendarte otros usuarios de AreYouIN que posiblemente conozcas. Del mismo modo, los eventos que publicas en AreYouIN pueden ser utilizados para recomendarte a usuarios que, por ejemplo, tengan tus mismas aficiones.</p>
+  <p>Tu nombre y foto de perfil se comparten con otros usuarios a través de los eventos que publicas o en los que participas. Por ejemplo, cuando publicas un evento tu nombre será visible como autor del evento y en la lista de participantes. Del mismo modo, cuando te invitan a un evento tu nombre será también visible en la lista de participantes. Es importante destacar que únicamente tus amigos pueden ver tu foto de perfil en la lista de participantes.</p>
+  <p>Cuando invitas a un amigo a AreYouIN que no es usuario del servicio, la dirección de correo electrónico que nos proporcionas es empleada únicamente con el fin de poder enviarle en tu nombre un e-mail de invitación.</p>
+  <p>Además, tu lista de amigos y la de otros usuarios puede ser empleada para recomendarte otros usuarios de AreYouIN que posiblemente conozcas. Del mismo modo, los eventos que publicas en AreYouIN pueden ser utilizados para recomendarte a usuarios que, por ejemplo, tengan tus mismas aficiones.</p>
 </div>
 
 <div class="legal-info">
@@ -58,7 +58,7 @@ date = "2016-08-26T03:58:28+02:00"
   <p>No compartimos información personal con empresas, organizaciones ni particulares que no tengan relación con nosotros, a menos que se dé alguna de las siguientes circunstancias:</p>
   <ul>
   <li class="title">Consentimiento:</li>
-  <li class="body">Compartiremos tus datos personales con empresas, organizaciones o personas físicas ajenas a  nosotros cuando nos hayas dado tu consentimiento para hacerlo. Tu consentimiento será necesario para compartir datos personales especialmente protegidos.</li>
+  <li class="body">Compartiremos tus datos personales con empresas, organizaciones o personas físicas ajenas a nosotros cuando nos hayas dado tu consentimiento para hacerlo. Tu consentimiento será necesario para compartir datos personales especialmente protegidos.</li>
   <li class="title">Motivos legales:</li>
   <li class="body">Compartiremos tus datos personales con empresas, organizaciones o personas físicas ajenas a nosotros si consideramos de buena fe que existe una necesidad razonable de acceder a dichos datos o utilizarlos, conservarlos o revelarlos para:</li>
     <ul>
@@ -73,6 +73,6 @@ date = "2016-08-26T03:58:28+02:00"
 
 <div class="legal-info">
   <h3>Protección de Datos (L.O.P.D.)</h3>
-  <p>Areyouin podrá crear un archivo automatizado con los datos personales que sean puestos en su conocimiento, ya sea como consecuencia de la utilización de los servicios ofrecidos, a causa de envíos al correo electrónico de contacto contact@areyouin.es o por el uso de formularios de contacto o de inscripción presentes en el sitio web. En todo caso, el almacenamiento, protección y uso de dichos datos por parte de Areyouin será conforme al estricto cumplimiento de lo preceptuado por la legislación en materia de protección de datos.</p>
-  <p>En cumplimiento de lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, los usuarios podrán ejercitar, en cualquier momento, los derechos de acceso, rectificación, oposición y cancelación de sus datos, que hubiesen sido recopilados y archivados. El ejercicio de estos derechos deberá efectuarse mediante comunicación escrita dirigida a el prestador en su dirección postal o a la dirección de correo electrónico de contacto (contact@areyouin.es) indicando en cualquiera de los casos, como referencia "DATOS PERSONALES" y el referido derecho que pretendan accionar, adjuntando copia de su Documento Nacional de Identidad.</p>
+  <p>Areyouin podrá crear un archivo automatizado con los datos personales que sean puestos en su conocimiento, ya sea como consecuencia de la utilización de los servicios ofrecidos, a causa de envíos al correo electrónico de contacto contact@areyouin.io o por el uso de formularios de contacto o de inscripción presentes en el sitio web. En todo caso, el almacenamiento, protección y uso de dichos datos por parte de Areyouin será conforme al estricto cumplimiento de lo preceptuado por la legislación en materia de protección de datos.</p>
+  <p>En cumplimiento de lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, los usuarios podrán ejercitar, en cualquier momento, los derechos de acceso, rectificación, oposición y cancelación de sus datos, que hubiesen sido recopilados y archivados. El ejercicio de estos derechos deberá efectuarse mediante comunicación escrita dirigida a el prestador en su dirección postal o a la dirección de correo electrónico de contacto (contact@areyouin.io) indicando en cualquiera de los casos, como referencia "DATOS PERSONALES" y el referido derecho que pretendan accionar, adjuntando copia de su Documento Nacional de Identidad.</p>
 </div>

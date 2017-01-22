@@ -3,36 +3,25 @@ date = "2016-08-26T03:24:55+02:00"
 title = "Cookies policy"
 +++
 <div class="legal-info">
-  <p>Una <em>cookie</em> es un pequeño fichero de texto que se almacena en su navegador cuando visita casi cualquier página web. Su utilidad es que la web sea capaz de recordar su visita cuando vuelva a navegar por esa página. Las <em>cookies</em> suelen almacenar información de carácter técnico, preferencias personales, personalización de contenidos, estadísticas de uso, enlaces a redes sociales, acceso a cuentas de usuario, etc. El objetivo de la <em>cookie</em> es adaptar el contenido de la web a su perfil y necesidades. Sin <em>cookies</em> los servicios ofrecidos por cualquier página se verían mermados notablemente.</p>
-  <h4>Cookies utilizadas en este sitio web:</h4>
-  <p>Siguiendo las directrices de la Agencia Española de Protección de Datos procedemos a detallar el uso de <em>cookies</em> que hace esta web con el fin de informarle con la máxima exactitud posible.</p>
-  <!--<p>Este sitio web utiliza las siguientes <strong>cookies propias</strong>:</p>
+  <p>A <em>cookie</em> is a small text file that is stored in your browser when you visit almost any web page. It lets the web browser to remember your visit when you return to a web site. Cookies often store technical information, personal preferences, content personalization, usage statistics, access to user accounts and so on. The purpose of the cookie is to adapt web content to your profile and needs.</p>
+  <h4>Cookies used on this website:</h4>
+  <p>Following the guidelines of the Spanish Data Protection Agency we detail the use of cookies in this website in order to inform you.</p>
+  <p>This website uses the following <strong>third-party cookies</strong>:</p>
   <ul>
-    <li>Cookies de sesión, para garantizar que los usuarios que escriban comentarios en el blog sean humanos y no aplicaciones automatizadas. De esta forma se combate el <em>spam</em>.</li>
-  </ul>-->
-  <p>Este sitio web utiliza las siguientes <strong>cookies de terceros</strong>:</p>
-  <ul>
-    <li>Google Analytics: Almacena <em>cookies</em> para poder elaborar estadísticas sobre el tráfico y volumen de visitas de esta web. Al utilizar este sitio web está consintiendo el tratamiento de información acerca de usted por Google. Por tanto, el ejercicio de cualquier derecho en este sentido deberá hacerlo comunicando directamente con Google.</li>
-    <!--
-    <li>Redes sociales: Cada red social utiliza sus propias <em>cookies</em> para que usted pueda pinchar en botones del tipo <em>Me gusta</em> o <em>Compartir</em>.</li>
-    -->
+    <li>Google Analytics: It stores cookies to compile statistics on traffic and volume of visits of this site. By using this website, you consent to the processing of data about you by Google. Therefore, the exercise of any rights in this regard must be done by communicating directly with Google.</li>
   </ul>
-  <h4>Desactivación o eliminación de cookies</h4>
-  <p>En cualquier momento podrá ejercer su derecho de desactivación o eliminación de cookies de este sitio web. Estas acciones se realizan de forma diferente en función del navegador que esté usando.</p>
+  <h4>Disabling or removing cookies</h4>
+  <p>At any time you may exercise your right to disable or delete cookies from this website. These actions are performed differently depending on the browser you are using.</p>
 </div>
 
 <div class="legal-info">
-  <h3><strong>Notas adicionales</strong></h3>
+  <h3><strong>Additional notes</strong></h3>
   <ul>
-    <li>Ni esta web ni sus representantes legales se hacen responsables ni del contenido ni de la veracidad de las políticas de privacidad que puedan tener los terceros mencionados en esta política de <em>cookies</em>.</li>
-    <li>Los navegadores web son las herramientas encargadas de almacenar las <em>cookies</em> y desde este lugar debe efectuar su derecho a eliminación o desactivación de las mismas. Ni esta web ni sus representantes legales pueden garantizar la correcta o incorrecta manipulación de las <em>cookies</em> por parte de los mencionados navegadores.</li>
-    <li>En algunos casos es necesario instalar <em>cookies</em> para que el navegador no olvide su decisión de no aceptación de las mismas.</li>
-    <li>
-      En el caso de las <em>cookies</em> de Google Analytics, esta empresa almacena las <em>cookies</em> en servidores ubicados en Estados Unidos y se compromete a no compartirla con terceros, excepto en los casos en los que sea necesario para el funcionamiento del sistema o cuando la ley obligue a tal efecto. Según Google no guarda su dirección IP. Google Inc. es una compañía adherida al Acuerdo de Puerto Seguro que garantiza que todos los datos transferidos serán tratados con un nivel de protección acorde a la normativa europea. Puede consultar información detallada a este respecto
-      <a href="http://safeharbor.export.gov/companyinfo.aspx?id=16626" target="_blank">en este enlace</a>.
-      Si desea información sobre el uso que Google da a las cookies
-      <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage?hl=es&amp;csw=1" target="_blank">le adjuntamos este otro enlace</a>.
+    <li>Neither this website nor its legal representatives are responsible for the content or the veracity of the privacy policies that may have the third parties mentioned on this cookies policy.</li>
+    <li>Cookies are managed and stored by web browsers and you should carry out your right to removal or disable them from this place. Neither this website nor their legal representatives can ensure the correct or incorrect handling of cookies by web browsers.</li>
+    <li>In some cases it may be needed to install cookies so that the web browser remember your decision to not accept them.</li>
+    <li>In the case of cookies from Google Analytics, they are used to track users on the web. Google stores user related data on servers in the United States and agree to not share it with others, except where necessary for system operation or when required by law. According to Google, they do not store your IP address. Google Inc. is a company attached to the Safe Harbor Agreement that ensures that all data transferred will be treated with a level of protection according to European standards. You can find detailed information about this subject on <a href="http://safeharbor.export.gov/companyinfo.aspx?id=16626" target="_blank" rel="nofollow">this link</a>. For information about how Google uses cookies <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage?hl=es&amp;csw=1" target="_blank" rel="nofollow">we attach this other link</a>.
     </li>
-    <li>Para cualquier duda o consulta acerca de esta política de <em>cookies</em> no dude en comunicarse con nosotros a través de la sección de contacto.</li>
+    <li>For any questions or concerns about this cookies policy do not hesitate to contact us through contact@areyouin.io.</li>
   </ul>
 </div>

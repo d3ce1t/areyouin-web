@@ -20,10 +20,10 @@
         {{if .IsPage}}
         {{ $relativeURL := replace .Permalink .Site.BaseURL "" }}
         <li><a href="https://www.areyouin.io/{{ $relativeURL }}">English</a></li>
-        <li><a href="https://www.areyouin.es/{{ $relativeURL }}">Spanish</a></li>
+        <li><a href="https://www.areyouin.io/es/{{ $relativeURL }}">Spanish</a></li>
         {{else}}
         <li><a href="https://www.areyouin.io/">English</a></li>
-        <li><a href="https://www.areyouin.es/">Spanish</a></li>
+        <li><a href="https://www.areyouin.io/es/">Spanish</a></li>
         {{end}}
       </ul>
     </div><!--/.nav-collapse -->

@@ -3,6 +3,9 @@ top = "Subir arriba"
 sectionFeatures = "Características"
 sectionDownload = "Descarga"
 
+googlePlayDownloadURL = "https://play.google.com/store/apps/details?id=es.peeple.areyouin"
+itunesDownloadURL = "https://itunes.apple.com/es/app/areyouin-meet-your-friends/id1131326903"
+
 topSlogan = "Diviértete con tus amigos y haz nuevas amistades"
 topParagraph = "AreYouIN es una aplicación móvil gratuita disponible en Google Play y App Store para quedar con tus amigos y conocer gente haciendo lo que te gusta. Con AreYouIN podrás ver al instante qué planes tienes y apuntarte al plan que más te guste."
 
@@ -39,5 +42,5 @@ bottomAvailableSub = "(Próximamente)"
 cookiesPolicy = "Política de cookies"
 legalNotice = "Aviso legal"
 and = "y"
-cookiesMsg = "Este sitio web utiliza cookies de terceros para obtener datos estadísticos de la navegación de nuestros usuarios y mejorar nuestros servicios. Si acepta o continúa navegando, consideramos que acepta su uso. Para más información consulta nuestra <a href=\"/legal/cookies\">Política de cookies</a>."
+cookiesMsg = "Este sitio web utiliza cookies de terceros para obtener datos estadísticos de la navegación de nuestros usuarios y mejorar nuestros servicios. Si acepta o continúa navegando, consideramos que acepta su uso. Para más información consulta nuestra <a href=\"/es/legal/cookies/\">Política de cookies</a>."
 cookiesAcceptButton = "Aceptar"

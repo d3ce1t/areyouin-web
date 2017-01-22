@@ -13,13 +13,13 @@
         </div>
         <div class="row">
           <div class="col-xs-6 download-google-play">
-            <a href="https://play.google.com/store/apps/details?id=es.peeple.areyouin" onclick="trackOutboundLink('https://play.google.com/store/apps/details?id=es.peeple.areyouin'); return false;">
+            <a href="{{ ( index $.Site.Data.translations $.Site.Params.locale ).googlePlayDownloadURL }}" onclick="trackOutboundLink('https://play.google.com/store/apps/details?id=es.peeple.areyouin'); return false;">
             <img alt="Get it on Google Play" src="images/google-play-badge.png" />
             </a>
           </div>
 
           <div class="col-xs-6 download-apple-store">
-            <a href="https://itunes.apple.com/es/app/areyouin-meet-your-friends/id1131326903" onclick="trackOutboundLink('https://itunes.apple.com/es/app/areyouin-meet-your-friends/id1131326903'); return false;">
+            <a href="{{ ( index $.Site.Data.translations $.Site.Params.locale ).itunesDownloadURL }}" onclick="trackOutboundLink('https://itunes.apple.com/es/app/areyouin-meet-your-friends/id1131326903'); return false;">
             <img alt="Download on the App Store" src="images/apple-store-badge.png" />
             </a>
           </div>
@@ -141,13 +141,13 @@
     <div class="row">
       <!-- Google Play -->
       <div class="col-xs-6 download-google-play">
-        <a href="https://play.google.com/store/apps/details?id=es.peeple.areyouin" onclick="trackOutboundLink('https://play.google.com/store/apps/details?id=es.peeple.areyouin'); return false;">
+        <a href="{{ ( index $.Site.Data.translations $.Site.Params.locale ).googlePlayDownloadURL }}" onclick="trackOutboundLink('https://play.google.com/store/apps/details?id=es.peeple.areyouin'); return false;">
         <img alt="Get it on Google Play" src="images/google-play-badge.png" />
         </a>
       </div>
       <!-- Apple Store -->
       <div class="col-xs-6 download-apple-store">
-        <a href="https://itunes.apple.com/es/app/areyouin-meet-your-friends/id1131326903" onclick="trackOutboundLink('https://itunes.apple.com/es/app/areyouin-meet-your-friends/id1131326903'); return false;">
+        <a href="{{ ( index $.Site.Data.translations $.Site.Params.locale ).itunesDownloadURL }}" onclick="trackOutboundLink('https://itunes.apple.com/es/app/areyouin-meet-your-friends/id1131326903'); return false;">
         <img alt="Download on the App Store" src="images/apple-store-badge.png" />
         </a>
       </div>
