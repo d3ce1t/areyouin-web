@@ -1,9 +1,13 @@
 theme = "areyouin-land"
-baseurl = "https://www.areyouin.io/"
+baseurl = "http://localhost:8080/"
 title = "AreYouIN: Hang out with friends and meet new people"
 languageCode = "en"
 contentdir = "content/en"
 publishdir = "public"
+disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "home"]
 
 [params]
     locale = "en"
+
+[markup.goldmark.renderer]
+    unsafe= true
